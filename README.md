@@ -15,12 +15,12 @@ Correlations between four properties of a trending video
    
 Top videos by views
 
-![alt text](https://github.com/rva15/youtubevids/blob/master/topviews.png)
+<img src="https://github.com/rva15/Youtube_data_analysis/blob/master/topviews.png" width="300">
 
 Top categories of trending videos
 
-![alt text](https://github.com/rva15/youtubevids/blob/master/top_cat.png)
+<img src="https://github.com/rva15/Youtube_data_analysis/blob/master/top_cat.png" width="300">
 
 Time it takes between publishing and trending
 
-![alt text](https://github.com/rva15/youtubevids/blob/master/timetotrend.png)
+<img src="https://github.com/rva15/Youtube_data_analysis/blob/master/timetotrend.png" width="300">
