@@ -11,7 +11,7 @@ It is divided into 5 csv files by region (USA, Great Britain, Germany, Canada an
 ## Some visualizations
 Correlations between four properties of a trending video
 
-<img src="https://github.com/rva15/youtubevids/blob/master/correlation.png" width="300">
+<img src="https://github.com/rva15/Youtube_data_analysis/blob/master/correlation.png" width="300">
    
 Top videos by views
 
