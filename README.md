@@ -11,16 +11,16 @@ It is divided into 5 csv files by region (USA, Great Britain, Germany, Canada an
 ## Some visualizations
 Correlations between four properties of a trending video
 
-![alt text](https://github.com/rva14/youtubevids/blob/master/correlation.png)
+![alt text](https://github.com/rva15/youtubevids/blob/master/correlation.png)
    
 Top videos by views
 
-![alt text](https://github.com/rva14/youtubevids/blob/master/topviews.png)
+![alt text](https://github.com/rva15/youtubevids/blob/master/topviews.png)
 
 Top categories of trending videos
 
-![alt text](https://github.com/rva14/youtubevids/blob/master/top_cat.png)
+![alt text](https://github.com/rva15/youtubevids/blob/master/top_cat.png)
 
 Time it takes between publishing and trending
 
-![alt text](https://github.com/rva14/youtubevids/blob/master/timetotrend.png)
+![alt text](https://github.com/rva15/youtubevids/blob/master/timetotrend.png)
