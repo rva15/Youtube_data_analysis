@@ -6,7 +6,7 @@ To discover the top videos by properties like views, likes, dislikes. Finding ou
 
 ## Installation
 The entire dataset can be downloaded from the kaggle website : 'https://www.kaggle.com/datasnaek/youtube-new/data'.
-It is divided into 5 csv files by region (USA, Great Britain, Germany, Canada and France) with up to 200 listed trending videos per day. Download the files into the same directory that you will fork this notebook in, and run. 
+It is divided into 5 csv files by region (USA, Great Britain, Germany, Canada and France) with up to 200 listed trending videos per day. Download the files into the same directory that you will clone this notebook in, and run. 
 
 ## Some visualizations
 Correlations between four properties of a trending video
