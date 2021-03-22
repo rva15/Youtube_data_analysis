@@ -9,7 +9,7 @@ The entire dataset can be downloaded from the kaggle website : 'https://www.kagg
 It is divided into 5 csv files by region (USA, Great Britain, Germany, Canada and France) with up to 200 listed trending videos per day. Download the files into the same directory that you will clone this notebook in, and run. 
 
 ## Some visualizations
-Correlations between four properties of a trending video
+Correlations between the main four features
 
 <img src="https://github.com/rva15/Youtube_data_analysis/blob/master/correlation.png" width="300">
    
