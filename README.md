@@ -2,7 +2,7 @@
 Visualization and analysis of the open trending videos dataset using pandas and matplotlib
 
 ## Motivation
-To discover the top videos by properties like views, likes, dislikes. Finding out the most successful youtube channels. Also searching for patterns within the dataset such as the correlation between views and likes, time for which a video trends and time it takes for it to start trending. 
+To discover the top videos by features such as views, likes, dislikes. Finding out the most successful youtube channels. Also searching for patterns within the dataset such as the correlation between views and likes, time for which a video trends and time it takes for it to start trending. 
 
 ## Installation
 The entire dataset can be downloaded from the kaggle website : 'https://www.kaggle.com/datasnaek/youtube-new/data'.
